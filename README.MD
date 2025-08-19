@@ -39,7 +39,7 @@ const talal = {
 
 <br>
 
-- 📫 Reach me at: **muhammadtalal21052@gmail.com**
+- 📫 Reach me at: **immohdtalal@gmail.com**
   
 ---
 
