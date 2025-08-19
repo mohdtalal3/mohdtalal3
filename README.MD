@@ -25,7 +25,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
-const anas = {
+const talal = {
     name: "Muhammad Talal",
     location: "Wah Cantt, Pakistan 🇵🇰",
     education: "BS Data Science Graduate (CGPA: 3.53/4)",
